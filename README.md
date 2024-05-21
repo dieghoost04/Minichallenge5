@@ -1,5 +1,16 @@
 # MiniChallenge 5: Bug Algorithms Implementation
 
+Este proyecto es una colaboración entre los siguientes estudiantes de la Universidad:
+
+- **Salvador Santana Blanco**            A01703523
+- **Anatanael Jesus Miranda Faustino**  A01769232
+- **Diego Díaz Ayala**            A01770236
+- **Carlos Eduardo Ortega**        A01707480
+
+
+*Profesor: Jesús Arturo Escobedo Cabello *
+
+
 ## Descripción del Proyecto
 
 Este proyecto implementa los algoritmos Bug Two y Bug Zero para navegación robótica en ROS (Robot Operating System). Estos algoritmos permiten que un robot navegue hacia una meta mientras evita obstáculos en su camino. El proyecto está estructurado de la siguiente manera:
