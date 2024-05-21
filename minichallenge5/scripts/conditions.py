@@ -7,8 +7,7 @@ def is_point_near_segment(x1, y1, x2, y2, x3, y3, epsilon):
         distance = numerator / denominator
         
         if distance <= epsilon:
-            if min(x2, x3) - epsilon <= x1 <= max(x2, x3) + epsilon and min(y2, y3) - epsilon <= y1 <= max(y2, y3) + epsilon:
-                return True
+            return True
         return False
 
 def calculate_line_equation(x1, y1, x2, y2):

@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="minchallenge5" type="bug_two.py" name="node1" output="screen" />
+    <include file="$(find puzzlebot_gazebo)/launch/puzzlebot_gazebo.launch" />
+</launch>
